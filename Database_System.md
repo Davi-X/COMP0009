@@ -32,14 +32,14 @@
     * Seperation & isolation of data
        * Difficult to access data that should be available
        * Developers must synchronize the processing of two fils to ensure the correct data is extracted
-    * Duplication of data
-       * Owing to the decentralised approach
-       * Duplication is wasteful. It costs time and money to enter the data more than once.
-       * Takes up additional storage space, again with associated costs. 
-       * May lead to loss of data integrity(i.e. inconsistency)
-        e.g. only inform one department, not the other, cause inconsistency
-    * (Program-)Data dependence
-       * Needs a one-off program to change the structure of a file
-       * All programs that access that file must be modified to conform to the new file structure 
-    * Incompatiable file formats
-    * Fixed quiries / proliferation of application programs
+    * Duplication of data  
+       * Owing to the decentralised approach  
+       * Duplication is wasteful. It costs time and money to enter the data more than once.  
+       * Takes up additional storage space, again with associated costs.   
+       * May lead to loss of data integrity(i.e. inconsistency)   
+        e.g. only inform one department, not the other, cause inconsistency  
+    * (Program-)Data dependence  
+       * Needs a one-off program to change the structure of a file  
+       * All programs that access that file must be modified to conform to the new file structure   
+    * Incompatiable file formats  
+    * Fixed quiries / proliferation of application programs  
